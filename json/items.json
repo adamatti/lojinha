@@ -9,7 +9,7 @@
     {
         "id":"ipad",
         "title":"Ipad 2",
-        "value" : null,
+        "value" : 700,
         "img":"/lojinha/assets/ipad.jpg",
         "vendido":false
     },
@@ -58,7 +58,7 @@
     {
         "id":"dell",
         "title": "PC Optiplex 780",
-        "value": null,
+        "value": 700,
         "img" : "/lojinha/assets/dell.jpg",
         "vendido": false
     }
