@@ -7,13 +7,6 @@
         "vendido": false
     },
     {
-        "id":"ipad",
-        "title":"Ipad 2",
-        "value" : 700,
-        "img":"/lojinha/assets/ipad.jpg",
-        "vendido":false
-    },
-    {
         "id":"camera",
         "title": "Camera digital 12 mp",
         "value": null,
