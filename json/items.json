@@ -4,7 +4,7 @@
         "title":"PS3 Bloqueado 500gb + 14 jogos",
         "value" : 700,
         "img":"/lojinha/assets/ps3/caixa.jpg",
-        "vendido": false
+        "vendido": true
     },
     {
         "id":"camera",
