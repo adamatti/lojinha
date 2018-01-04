@@ -1,12 +1,5 @@
 [
     {
-        "id":"ps3",
-        "title":"PS3 Bloqueado 500gb + 14 jogos",
-        "value" : 700,
-        "img":"/lojinha/assets/ps3/caixa.jpg",
-        "vendido": true
-    },
-    {
         "id":"camera",
         "title": "Camera digital 12 mp",
         "value": null,
