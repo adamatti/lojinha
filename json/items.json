@@ -1,5 +1,12 @@
 [
     {
+        "id":"mac",
+        "title": "Mac mini i7 / 16gb ram",
+        "value": null,
+        "img": "/lojinha/assets/macmini/mac.jpg",
+        "vendido": false
+    },
+    {
         "id":"camera",
         "title": "Camera digital 12 mp",
         "value": null,
